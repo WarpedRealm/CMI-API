@@ -58,11 +58,10 @@
 		</dependency>
 		<!-- CMILib -->
 		<dependency>
-			<groupId>net.Zrips</groupId>
+			<groupId>com.github.WarpedRealm.CMILib</groupId>
 			<artifactId>CMILib</artifactId>
-			<version>latest</version>
-			<scope>system</scope>
-			<systemPath>${basedir}/libs/CMILib1.2.4.1.jar</systemPath>
+			<version>2b8e512428</version>
+			<scope>provided</scope>
 		</dependency>
 	</dependencies>
 	<repositories>
